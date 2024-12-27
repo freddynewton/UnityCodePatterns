@@ -7,6 +7,7 @@ This repository contains examples and explanations of common code patterns used 
 - [x] [Model-View-Controller (MVC)](https://github.com/freddynewton/UnityCodePatterns/blob/main/Assets/01.%20Scripts/MVC/MVC%20Pattern.md)
 - [x] [Singleton](https://github.com/freddynewton/UnityCodePatterns/blob/main/Assets/01.%20Scripts/Singleton/Singleton%20Pattern.md)
 - [x] [Object Pooling](https://github.com/freddynewton/UnityCodePatterns/blob/main/Assets/01.%20Scripts/Object%20Pooling/Object%20Pooling%20Pattern.md)
+- [x] [Dependency Injection with VContainer](https://github.com/freddynewton/UnityCodePatterns/blob/main/Assets/01.%20Scripts/Dependency%20Injection/Dependency%20Injection%20VContainer.md)
 
 ## Planned Patterns (Not Yet Implemented)
 
@@ -16,7 +17,6 @@ This repository contains examples and explanations of common code patterns used 
 - [ ] Factory Method
 - [ ] Strategy Pattern
 - [ ] Service Locator
-- [ ] Dependency Injection
 - [ ] Decorator Pattern
 - [ ] Flyweight Pattern
 
